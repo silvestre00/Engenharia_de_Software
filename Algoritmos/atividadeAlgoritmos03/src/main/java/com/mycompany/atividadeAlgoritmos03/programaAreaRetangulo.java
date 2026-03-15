@@ -1,5 +1,5 @@
 
-package com.mycompany.atividadeAlgoritmosSilvestre;
+package com.mycompany.atividadeAlgoritmos03;
 import java.util.Scanner;
 
 public class programaAreaRetangulo {
